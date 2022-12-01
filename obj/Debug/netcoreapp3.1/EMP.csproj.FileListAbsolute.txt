@@ -1,0 +1,14 @@
+D:\Bridgelabz2\EMP\bin\Debug\netcoreapp3.1\EMP.exe
+D:\Bridgelabz2\EMP\bin\Debug\netcoreapp3.1\EMP.deps.json
+D:\Bridgelabz2\EMP\bin\Debug\netcoreapp3.1\EMP.runtimeconfig.json
+D:\Bridgelabz2\EMP\bin\Debug\netcoreapp3.1\EMP.runtimeconfig.dev.json
+D:\Bridgelabz2\EMP\bin\Debug\netcoreapp3.1\EMP.dll
+D:\Bridgelabz2\EMP\bin\Debug\netcoreapp3.1\EMP.pdb
+D:\Bridgelabz2\EMP\obj\Debug\netcoreapp3.1\EMP.csproj.AssemblyReference.cache
+D:\Bridgelabz2\EMP\obj\Debug\netcoreapp3.1\EMP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabz2\EMP\obj\Debug\netcoreapp3.1\EMP.AssemblyInfoInputs.cache
+D:\Bridgelabz2\EMP\obj\Debug\netcoreapp3.1\EMP.AssemblyInfo.cs
+D:\Bridgelabz2\EMP\obj\Debug\netcoreapp3.1\EMP.csproj.CoreCompileInputs.cache
+D:\Bridgelabz2\EMP\obj\Debug\netcoreapp3.1\EMP.dll
+D:\Bridgelabz2\EMP\obj\Debug\netcoreapp3.1\EMP.pdb
+D:\Bridgelabz2\EMP\obj\Debug\netcoreapp3.1\EMP.genruntimeconfig.cache
